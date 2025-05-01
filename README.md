@@ -2,7 +2,7 @@
 Repositório destinado ao curso "Python 3 do básico ao avançado - com projetos reais" da Udemy.
 
 # Procedimentos iniciais
-Para obter uma cópia local, devidamente instalada e configurada, siga as instruções a seguir:
+Para obter uma cópia local, siga as instruções a seguir:
 
 ## Clonagem
 
