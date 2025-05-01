@@ -1,4 +1,4 @@
-# Docker
+# udemy-python3-basic-to-advanced
 Repositório destinado ao curso "Python 3 do básico ao avançado - com projetos reais" da Udemy.
 
 # Procedimentos iniciais
