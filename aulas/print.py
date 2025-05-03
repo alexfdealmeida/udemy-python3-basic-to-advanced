@@ -1,1 +1,5 @@
 print(123)
+print("Alex", 1985)
+print("Alex", 1985, sep='-')
+print("Alex", 1985, sep='-')
+print("Alex", 1985, sep='-', end='\n')
