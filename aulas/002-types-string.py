@@ -11,3 +11,6 @@ print("\"Alex\"")
 
 # r
 print(r"\"Alex\"")
+
+# type
+print(type("Alex"))
