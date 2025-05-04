@@ -1,15 +1,15 @@
-soma = 2 + 2
-subracao = 2 - 2
-multiplicacao = 2 * 2
-exponenciacao = 2 ** 2
-divisao = 5 / 2
-divisao_inteira = 5 // 2
-divisao_modulo = 5 % 2
+addition = 2 + 2
+subtraction = 2 - 2
+multiplication = 2 * 2
+exponentiation = 2 ** 2
+division = 5 / 2
+integer_division = 5 // 2
+modulo = 5 % 2
 
-print("Soma:", soma)
-print("Subtração:", subracao)
-print("Multiplicação:", multiplicacao)
-print("Exponenciação:", exponenciacao)
-print("Divisão:", divisao)
-print("Divisão inteira (quociente):", divisao_inteira)
-print("Divisão módulo (resto):", divisao_modulo)
+print("Addition:", addition)
+print("Subtraction:", subtraction)
+print("Multiplication:", multiplication)
+print("Exponentiation:", exponentiation)
+print("Division:", division)
+print("Integer division (quotient):", integer_division)
+print("Modulo (remainder):", modulo)
