@@ -1,7 +1,7 @@
-nome = "Alex"
-ano_nascimento = 1985
-soma = 1 + 1
+name = "Alex"
+height = 1.78
+year_of_birth = 1985
 
-print("Nome:", nome)
-print("Ano de nascimento:", ano_nascimento)
-print("Soma:", soma)
+print("Name:", name)
+print("Height:", height)
+print("Year of birth:", year_of_birth)
