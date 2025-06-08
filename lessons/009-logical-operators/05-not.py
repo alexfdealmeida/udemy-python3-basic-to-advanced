@@ -1,0 +1,8 @@
+print(not(True and True and True))
+print(not(False and False and False))
+print(not(True and False and True))
+print(not(False and True and False))
+print(not(True or True or True))
+print(not(False or False or False))
+print(not(True or False or True))
+print(not(False or True or False))
